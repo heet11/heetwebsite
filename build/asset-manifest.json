@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/heetwebsite/static/css/main.69a315c6.css",
+    "main.js": "/heetwebsite/static/js/main.fb8964fb.js",
+    "static/media/logo.svg": "/heetwebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/heetwebsite/index.html",
+    "main.69a315c6.css.map": "/heetwebsite/static/css/main.69a315c6.css.map",
+    "main.fb8964fb.js.map": "/heetwebsite/static/js/main.fb8964fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69a315c6.css",
+    "static/js/main.fb8964fb.js"
+  ]
+}
